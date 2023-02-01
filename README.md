@@ -1,4 +1,4 @@
-# react-native-card-deck
+# react-native-interactive-card-deck
 
 An interactive card deck for React Native.
 
