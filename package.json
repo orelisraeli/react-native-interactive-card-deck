@@ -1,5 +1,5 @@
 {
-  "name": "react-native-card-deck",
+  "name": "react-native-interactive-card-deck",
   "version": "1.0.0",
   "description": "An interactive card deck for React Native",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orelisraeli/react-native-card-deck.git"
+    "url": "git+https://github.com/orelisraeli/react-native-interactive-card-deck.git"
   },
   "keywords": [
     "react-native",
@@ -19,9 +19,9 @@
   "author": "Orel Israeli",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/orelisraeli/react-native-card-deck/issues"
+    "url": "https://github.com/orelisraeli/react-native-interactive-card-deck/issues"
   },
-  "homepage": "https://github.com/orelisraeli/react-native-card-deck#readme",
+  "homepage": "https://github.com/orelisraeli/react-native-interactive-card-deck#readme",
   "bundledDependencies": false,
   "peerDependencies": {
     "react": "^18.1.0",
